@@ -15,7 +15,7 @@ Features:
 
 How to Use:
 
-* Clone or download the repository to your local machine.
+* Clone or download the repository to your Microsoft PowerBI Desktop.
 
 * Open the Power BI file in your Power BI Desktop application.
 
